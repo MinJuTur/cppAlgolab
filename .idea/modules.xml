@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Algolab.iml" filepath="$PROJECT_DIR$/.idea/Algolab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cppAlgolab.iml" filepath="$PROJECT_DIR$/.idea/cppAlgolab.iml" />
     </modules>
   </component>
 </project>
