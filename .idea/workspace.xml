@@ -7,7 +7,6 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
@@ -18,15 +17,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algolab.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice3.exe" afterDir="false" />
+    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="Algolab Day2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +59,7 @@
     "C/C++ File.Practice2.cpp.executor": "Run",
     "C/C++ File.Practice3.cpp.executor": "Run",
     "C/C++ File.Practice4.cpp.executor": "Run",
+    "C/C++ File.Practice5.cpp.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -85,7 +78,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.Practice4.cpp">
+  <component name="RunManager" selected="C/C++ File.Practice5.cpp">
     <configuration name="Practice1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice1.cpp" CONFIG_NAME="Practice1.cpp">
       <option name="sourceFile" value="Day2\Practice1.cpp" />
       <method v="2">
@@ -110,8 +103,15 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice5.cpp" CONFIG_NAME="Practice5.cpp">
+      <option name="sourceFile" value="LecturePractice\Practice5.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Practice5.cpp" />
         <item itemvalue="C/C++ File.Practice4.cpp" />
         <item itemvalue="C/C++ File.Practice3.cpp" />
         <item itemvalue="C/C++ File.Practice2.cpp" />
@@ -134,11 +134,29 @@
       <workItem from="1742457339907" duration="81000" />
       <workItem from="1742457427387" duration="2000" />
       <workItem from="1742791462518" duration="4714000" />
-      <workItem from="1742802830943" duration="1672000" />
+      <workItem from="1742802830943" duration="1912000" />
+      <workItem from="1742809025875" duration="24000" />
+      <workItem from="1742817557603" duration="171000" />
+      <workItem from="1742818140603" duration="9000" />
+      <workItem from="1742885753119" duration="448000" />
+      <workItem from="1742886906727" duration="676000" />
     </task>
+    <task id="LOCAL-00001" summary="Algolab Day2">
+      <option name="closed" value="true" />
+      <created>1742808991895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742808991895</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Algolab Day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algolab Day2" />
   </component>
 </project>
