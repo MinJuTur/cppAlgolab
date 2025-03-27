@@ -17,7 +17,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="Algolab Day2">
+    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="LecturePractice5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "C/C++ File.Practice3.cpp.executor": "Run",
     "C/C++ File.Practice4.cpp.executor": "Run",
     "C/C++ File.Practice5.cpp.executor": "Run",
+    "C/C++ File.Practice6.cpp.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -75,16 +76,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.Practice5.cpp">
-    <configuration name="Practice1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice1.cpp" CONFIG_NAME="Practice1.cpp">
-      <option name="sourceFile" value="Day2\Practice1.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.Practice6.cpp">
     <configuration name="Practice2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice2.cpp" CONFIG_NAME="Practice2.cpp">
       <option name="sourceFile" value="Day2\Practice2.cpp" />
       <method v="2">
@@ -109,13 +105,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice6.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice6.cpp" CONFIG_NAME="Practice6.cpp">
+      <option name="sourceFile" value="LecturePractice\Practice6.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Practice6.cpp" />
         <item itemvalue="C/C++ File.Practice5.cpp" />
         <item itemvalue="C/C++ File.Practice4.cpp" />
         <item itemvalue="C/C++ File.Practice3.cpp" />
         <item itemvalue="C/C++ File.Practice2.cpp" />
-        <item itemvalue="C/C++ File.Practice1.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +141,10 @@
       <workItem from="1742817557603" duration="171000" />
       <workItem from="1742818140603" duration="9000" />
       <workItem from="1742885753119" duration="448000" />
-      <workItem from="1742886906727" duration="676000" />
+      <workItem from="1742886906727" duration="969000" />
+      <workItem from="1742961440489" duration="3000" />
+      <workItem from="1742994307289" duration="270000" />
+      <workItem from="1743044723820" duration="1662000" />
     </task>
     <task id="LOCAL-00001" summary="Algolab Day2">
       <option name="closed" value="true" />
@@ -149,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742808991895</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LecturePractice5">
+      <option name="closed" value="true" />
+      <created>1742887866405</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742887866405</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +170,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Algolab Day2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algolab Day2" />
+    <MESSAGE value="LecturePractice5" />
+    <option name="LAST_COMMIT_MESSAGE" value="LecturePractice5" />
   </component>
 </project>
