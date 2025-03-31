@@ -17,9 +17,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="LecturePractice5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="LecturePractice6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +142,7 @@
       <workItem from="1742886906727" duration="969000" />
       <workItem from="1742961440489" duration="3000" />
       <workItem from="1742994307289" duration="270000" />
-      <workItem from="1743044723820" duration="1662000" />
+      <workItem from="1743044723820" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="Algolab Day2">
       <option name="closed" value="true" />
@@ -162,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742887866405</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="LecturePractice6">
+      <option name="closed" value="true" />
+      <created>1743049057180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743049057180</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +177,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Algolab Day2" />
     <MESSAGE value="LecturePractice5" />
-    <option name="LAST_COMMIT_MESSAGE" value="LecturePractice5" />
+    <MESSAGE value="LecturePractice6" />
+    <option name="LAST_COMMIT_MESSAGE" value="LecturePractice6" />
   </component>
 </project>
