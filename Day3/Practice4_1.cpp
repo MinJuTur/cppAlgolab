@@ -29,11 +29,11 @@ int main() {
   ifstream inputFile("input.txt");
 
   int t;
-  cin >> t;
+  inputFile >> t;
 
   for (int i = 0; i < t; i++) {
     int Y,M;
-    cin >> Y >> M;
+    inputFile >> Y >> M;
 
     cout << Y << " " << M << "\n";
 

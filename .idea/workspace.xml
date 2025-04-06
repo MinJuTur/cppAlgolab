@@ -17,9 +17,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="Algolab Day3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="Algolab Day3-4번 수정" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +154,7 @@
       <workItem from="1743504587557" duration="3000" />
       <workItem from="1743772950742" duration="9492000" />
       <workItem from="1743856824007" duration="7390000" />
-      <workItem from="1743897924407" duration="1361000" />
+      <workItem from="1743897924407" duration="1792000" />
     </task>
     <task id="LOCAL-00001" summary="Algolab Day2">
       <option name="closed" value="true" />
@@ -198,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743870175124</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Algolab Day3-4번 수정">
+      <option name="closed" value="true" />
+      <created>1743900090227</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743900090227</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +215,7 @@
     <MESSAGE value="LecturePractice5" />
     <MESSAGE value="LecturePractice6" />
     <MESSAGE value="Algolab Day3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algolab Day3" />
+    <MESSAGE value="Algolab Day3-4번 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algolab Day3-4번 수정" />
   </component>
 </project>
