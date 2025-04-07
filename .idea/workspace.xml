@@ -7,7 +7,6 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
@@ -20,7 +19,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="Algolab Day3-4번 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3/Practice4_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Day3/Practice4_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice4.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +31,13 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,6 +54,9 @@
     &quot;accountId&quot;: &quot;9882251e-56d8-4b32-af5d-b057d190bb7b&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Day3/Practice4.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -55,54 +67,58 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.Practice1.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Practice2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Practice3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Practice4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Practice4_1.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Practice5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Practice6.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/장민주/Desktop/important files/대학교/2025 1학기/cppAlgolab/Day3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Practice1.cpp (1).executor": "Run",
+    "C/C++ File.Practice1.cpp.executor": "Run",
+    "C/C++ File.Practice2.cpp (1).executor": "Run",
+    "C/C++ File.Practice2.cpp.executor": "Run",
+    "C/C++ File.Practice3.cpp (1).executor": "Run",
+    "C/C++ File.Practice3.cpp.executor": "Run",
+    "C/C++ File.Practice4.cpp (1).executor": "Run",
+    "C/C++ File.Practice4.cpp.executor": "Run",
+    "C/C++ File.Practice4_1.cpp.executor": "Run",
+    "C/C++ File.Practice5.cpp.executor": "Run",
+    "C/C++ File.Practice6.cpp.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/장민주/Desktop/important files/대학교/2025 1학기/cppAlgolab/Day3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\장민주\Desktop\important files\대학교\2025 1학기\cppAlgolab\Day3" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Practice4_1.cpp">
-    <configuration name="Practice1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice1.cpp" CONFIG_NAME="Practice1.cpp">
-      <option name="sourceFile" value="Day3\Practice1.cpp" />
+  <component name="RunManager" selected="C/C++ File.Practice4.cpp (1)">
+    <configuration name="Practice1.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice1.cpp" CONFIG_NAME="Practice1.cpp">
+      <option name="sourceFile" value="Day4\Practice1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice2.cpp" CONFIG_NAME="Practice2.cpp">
-      <option name="sourceFile" value="Day3\Practice2.cpp" />
+    <configuration name="Practice2.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice2.cpp" CONFIG_NAME="Practice2.cpp">
+      <option name="sourceFile" value="Day4\Practice2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice3.cpp" CONFIG_NAME="Practice3.cpp">
-      <option name="sourceFile" value="Day3\Practice3.cpp" />
+    <configuration name="Practice3.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice3.cpp" CONFIG_NAME="Practice3.cpp">
+      <option name="sourceFile" value="Day4\Practice3.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -113,19 +129,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice4.cpp" CONFIG_NAME="Practice4.cpp">
-      <option name="sourceFile" value="Day3\Practice4.cpp" />
+    <configuration name="Practice4.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice4.cpp" CONFIG_NAME="Practice4.cpp">
+      <option name="sourceFile" value="Day4\Practice4.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Practice4.cpp (1)" />
+        <item itemvalue="C/C++ File.Practice3.cpp (1)" />
+        <item itemvalue="C/C++ File.Practice2.cpp (1)" />
+        <item itemvalue="C/C++ File.Practice1.cpp (1)" />
         <item itemvalue="C/C++ File.Practice4_1.cpp" />
-        <item itemvalue="C/C++ File.Practice4.cpp" />
-        <item itemvalue="C/C++ File.Practice3.cpp" />
-        <item itemvalue="C/C++ File.Practice2.cpp" />
-        <item itemvalue="C/C++ File.Practice1.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +175,13 @@
       <workItem from="1743772950742" duration="9492000" />
       <workItem from="1743856824007" duration="7390000" />
       <workItem from="1743897924407" duration="2155000" />
-      <workItem from="1743900763876" duration="1952000" />
+      <workItem from="1743900763876" duration="3301000" />
+      <workItem from="1743921574669" duration="1278000" />
+      <workItem from="1743927781393" duration="503000" />
+      <workItem from="1743928294108" duration="103000" />
+      <workItem from="1743949744227" duration="1528000" />
+      <workItem from="1743995900062" duration="4823000" />
+      <workItem from="1744026585368" duration="5416000" />
     </task>
     <task id="LOCAL-00001" summary="Algolab Day2">
       <option name="closed" value="true" />
@@ -217,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743900403363</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Algolab Day3-4번 수정">
+      <option name="closed" value="true" />
+      <created>1743902763044</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743902763044</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
