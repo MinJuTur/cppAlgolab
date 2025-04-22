@@ -17,7 +17,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="Algolab Day4">
+    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="알고랩 장유민">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +80,13 @@
     "C/C++ File.Practice4_1.cpp.executor": "Run",
     "C/C++ File.Practice5.cpp.executor": "Run",
     "C/C++ File.Practice6.cpp.executor": "Run",
+    "C/C++ File.RE1.cpp (1).executor": "Run",
+    "C/C++ File.RE1.cpp.executor": "Run",
+    "C/C++ File.RE2.cpp (1).executor": "Run",
+    "C/C++ File.RE2.cpp.executor": "Run",
+    "C/C++ File.RE3.cpp (1).executor": "Run",
+    "C/C++ File.RE3.cpp.executor": "Run",
+    "C/C++ File.RE4.cpp.executor": "Run",
     "C/C++ File.족보 16번.cpp.executor": "Run",
     "C/C++ File.족보 17번.cpp.executor": "Run",
     "C/C++ File.족보 18번.cpp.executor": "Run",
@@ -112,44 +119,44 @@
       <recent name="C:\Users\장민주\Desktop\important files\대학교\2025 1학기\cppAlgolab\Day3" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.족보 18번.cpp">
-    <configuration name="족보 18번.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="족보 18번.cpp" CONFIG_NAME="족보 18번.cpp">
-      <option name="sourceFile" value="LecturePractice\족보 18번.cpp" />
+  <component name="RunManager" selected="C/C++ File.RE4.cpp">
+    <configuration name="RE1.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="RE1.cpp" CONFIG_NAME="RE1.cpp">
+      <option name="sourceFile" value="Day2\RE1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="족보 20번.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="족보 20번.cpp" CONFIG_NAME="족보 20번.cpp">
-      <option name="sourceFile" value="LecturePractice\족보 20번.cpp" />
+    <configuration name="RE2.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="RE2.cpp" CONFIG_NAME="RE2.cpp">
+      <option name="sourceFile" value="Day2\RE2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="족보 25번.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="족보 25번.cpp" CONFIG_NAME="족보 25번.cpp">
-      <option name="sourceFile" value="LecturePractice\족보 25번.cpp" />
+    <configuration name="RE3.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="RE3.cpp" CONFIG_NAME="RE3.cpp">
+      <option name="sourceFile" value="Day2\RE3.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="족보 26번.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="족보 26번.cpp" CONFIG_NAME="족보 26번.cpp">
-      <option name="sourceFile" value="LecturePractice\족보 26번.cpp" />
+    <configuration name="RE3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="RE3.cpp" CONFIG_NAME="RE3.cpp">
+      <option name="sourceFile" value="Day1\RE3.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="족보 30번.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="족보 30번.cpp" CONFIG_NAME="족보 30번.cpp">
-      <option name="sourceFile" value="LecturePractice\족보 30번.cpp" />
+    <configuration name="RE4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="RE4.cpp" CONFIG_NAME="RE4.cpp">
+      <option name="sourceFile" value="Day2\RE4.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.족보 18번.cpp" />
-        <item itemvalue="C/C++ File.족보 26번.cpp" />
-        <item itemvalue="C/C++ File.족보 30번.cpp" />
-        <item itemvalue="C/C++ File.족보 25번.cpp" />
-        <item itemvalue="C/C++ File.족보 20번.cpp" />
+        <item itemvalue="C/C++ File.RE4.cpp" />
+        <item itemvalue="C/C++ File.RE3.cpp (1)" />
+        <item itemvalue="C/C++ File.RE2.cpp (1)" />
+        <item itemvalue="C/C++ File.RE1.cpp (1)" />
+        <item itemvalue="C/C++ File.RE3.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +199,12 @@
       <workItem from="1744026585368" duration="5721000" />
       <workItem from="1744721113444" duration="1000" />
       <workItem from="1744948724749" duration="3532000" />
-      <workItem from="1744953918686" duration="3839000" />
+      <workItem from="1744953918686" duration="4050000" />
+      <workItem from="1744973453900" duration="647000" />
+      <workItem from="1745051486444" duration="3497000" />
+      <workItem from="1745136644129" duration="2437000" />
+      <workItem from="1745230121634" duration="5905000" />
+      <workItem from="1745285895002" duration="1681000" />
     </task>
     <task id="LOCAL-00001" summary="Algolab Day2">
       <option name="closed" value="true" />
@@ -266,7 +278,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744036405151</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="족보 코드">
+      <option name="closed" value="true" />
+      <created>1744972762138</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744972762138</updated>
+    </task>
+    <task id="LOCAL-00011" summary="족보 코드">
+      <option name="closed" value="true" />
+      <created>1744972775331</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744972775331</updated>
+    </task>
+    <task id="LOCAL-00012" summary="알고랩 장유민">
+      <option name="closed" value="true" />
+      <created>1744972810161</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1744972810161</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +315,8 @@
     <MESSAGE value="Algolab Day3" />
     <MESSAGE value="Algolab Day3-4번 수정" />
     <MESSAGE value="Algolab Day4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algolab Day4" />
+    <MESSAGE value="족보 코드" />
+    <MESSAGE value="알고랩 장유민" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고랩 장유민" />
   </component>
 </project>
