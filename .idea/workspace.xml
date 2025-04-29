@@ -17,11 +17,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="2023 족보 코딩문제 풀기">
+    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="알고랩 Day3 다시풀기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RE1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RE1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RE2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RE2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RE3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RE3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RE4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RE4.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +128,19 @@
       <recent name="C:\Users\장민주\Desktop\important files\대학교\2025 1학기\cppAlgolab\Day3" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.RE4.cpp">
+  <component name="RunManager" selected="C/C++ File.RE2.cpp (1)">
+    <configuration name="RE1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="RE1.cpp" CONFIG_NAME="RE1.cpp">
+      <option name="sourceFile" value="Day4\RE1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RE2.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="RE2.cpp" CONFIG_NAME="RE2.cpp">
+      <option name="sourceFile" value="Day4\RE2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RE2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="RE2.cpp" CONFIG_NAME="RE2.cpp">
       <option name="sourceFile" value="Day3\RE2.cpp" />
       <method v="2">
@@ -148,25 +159,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="족보_집합 연산.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="족보_집합 연산.cpp" CONFIG_NAME="족보_집합 연산.cpp">
-      <option name="sourceFile" value="LecturePractice\족보_집합 연산.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="족보_2024년 어느 날짜의 요일 구하기.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="족보_2024년 어느 날짜의 요일 구하기.cpp" CONFIG_NAME="족보_2024년 어느 날짜의 요일 구하기.cpp">
-      <option name="sourceFile" value="LecturePractice\족보_2024년 어느 날짜의 요일 구하기.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.RE2.cpp (1)" />
+        <item itemvalue="C/C++ File.RE1.cpp" />
         <item itemvalue="C/C++ File.RE4.cpp" />
         <item itemvalue="C/C++ File.RE2.cpp" />
         <item itemvalue="C/C++ File.RE3.cpp" />
-        <item itemvalue="C/C++ File.족보_2024년 어느 날짜의 요일 구하기.cpp" />
-        <item itemvalue="C/C++ File.족보_집합 연산.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +218,8 @@
       <workItem from="1745309589564" duration="3612000" />
       <workItem from="1745328912491" duration="3841000" />
       <workItem from="1745374234061" duration="16187000" />
-      <workItem from="1745457085614" duration="1316000" />
+      <workItem from="1745457085614" duration="5971000" />
+      <workItem from="1745476589697" duration="1287000" />
     </task>
     <task id="LOCAL-00001" summary="Algolab Day2">
       <option name="closed" value="true" />
@@ -357,7 +357,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745394307951</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="알고랩 Day3 다시풀기">
+      <option name="closed" value="true" />
+      <created>1745458447764</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1745458447764</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,6 +384,7 @@
     <MESSAGE value="동적배열 1D,2D,3D 만들기" />
     <MESSAGE value="string 클래스 실습" />
     <MESSAGE value="2023 족보 코딩문제 풀기" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 족보 코딩문제 풀기" />
+    <MESSAGE value="알고랩 Day3 다시풀기" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고랩 Day3 다시풀기" />
   </component>
 </project>
