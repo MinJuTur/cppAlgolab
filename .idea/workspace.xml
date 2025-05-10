@@ -17,11 +17,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="족보">
+    <list default="true" id="8e23f4a3-df2c-444e-9325-082c10e646bb" name="Changes" comment="알고랩 Day5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Practice5.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +59,7 @@
     <setting file="file://$PROJECT_DIR$/Day3/Practice4.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day3/Practice4_1.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day3/RE1.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LecturePractice/족보 16번.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LecturePractice/족보 17번.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LecturePractice/족보 19번.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day5/Practice1.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -114,13 +114,13 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/장민주/Desktop/important files/대학교/2025 1학기/cppAlgolab/LecturePractice&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/장민주/Desktop/important files/대학교/2025 1학기/cpp/cppAlgolab&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -133,44 +133,44 @@
       <recent name="C:\Users\장민주\Desktop\important files\대학교\2025 1학기\cppAlgolab\족보" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Practice3.cpp">
-    <configuration name="Kvector.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Kvector.cpp" CONFIG_NAME="Kvector.cpp">
-      <option name="sourceFile" value="LecturePractice\Kvector.cpp" />
+  <component name="RunManager" selected="C/C++ File.Practice3.cpp (1)">
+    <configuration name="Practice1.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice1.cpp" CONFIG_NAME="Practice1.cpp">
+      <option name="sourceFile" value="Day6\Practice1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice1.cpp" CONFIG_NAME="Practice1.cpp">
-      <option name="sourceFile" value="Day5\Practice1.cpp" />
+    <configuration name="Practice2.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice2.cpp" CONFIG_NAME="Practice2.cpp">
+      <option name="sourceFile" value="Day6\Practice2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice2.cpp" CONFIG_NAME="Practice2.cpp">
-      <option name="sourceFile" value="Day5\Practice2.cpp" />
+    <configuration name="Practice3.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice3.cpp" CONFIG_NAME="Practice3.cpp">
+      <option name="sourceFile" value="Day6\Practice3.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice3.cpp" CONFIG_NAME="Practice3.cpp">
-      <option name="sourceFile" value="Day5\Practice3.cpp" />
+    <configuration name="Practice4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice4.cpp" CONFIG_NAME="Practice4.cpp">
+      <option name="sourceFile" value="Day6\Practice4.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RE2.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="RE2.cpp" CONFIG_NAME="RE2.cpp">
-      <option name="sourceFile" value="Day4\RE2.cpp" />
+    <configuration name="Practice5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppAlgolab" TARGET_NAME="Practice5.cpp" CONFIG_NAME="Practice5.cpp">
+      <option name="sourceFile" value="Day6\Practice5.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.Practice3.cpp" />
-        <item itemvalue="C/C++ File.Practice2.cpp" />
-        <item itemvalue="C/C++ File.Practice1.cpp" />
-        <item itemvalue="C/C++ File.Kvector.cpp" />
-        <item itemvalue="C/C++ File.RE2.cpp (1)" />
+        <item itemvalue="C/C++ File.Practice3.cpp (1)" />
+        <item itemvalue="C/C++ File.Practice5.cpp" />
+        <item itemvalue="C/C++ File.Practice1.cpp (1)" />
+        <item itemvalue="C/C++ File.Practice4.cpp" />
+        <item itemvalue="C/C++ File.Practice2.cpp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +227,13 @@
       <workItem from="1745476589697" duration="1287000" />
       <workItem from="1745969794406" duration="155000" />
       <workItem from="1745990622743" duration="1150000" />
-      <workItem from="1746359134722" duration="1535000" />
+      <workItem from="1746359134722" duration="10264000" />
+      <workItem from="1746589798329" duration="8826000" />
+      <workItem from="1746682273984" duration="182000" />
+      <workItem from="1746683109621" duration="3000" />
+      <workItem from="1746683117887" duration="1426000" />
+      <workItem from="1746684829541" duration="6000" />
+      <workItem from="1746867391066" duration="1964000" />
     </task>
     <task id="LOCAL-00001" summary="Algolab Day2">
       <option name="closed" value="true" />
@@ -397,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746359181362</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="알고랩 Day5">
+      <option name="closed" value="true" />
+      <created>1746360847380</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1746360847380</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,6 +434,11 @@
     <MESSAGE value="알고랩 Day4 다시풀기" />
     <MESSAGE value="Kvector 실습과제1" />
     <MESSAGE value="족보" />
-    <option name="LAST_COMMIT_MESSAGE" value="족보" />
+    <MESSAGE value="알고랩 Day5" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고랩 Day5" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
